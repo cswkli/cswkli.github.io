@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hainan University. I am supervised by the [Prof. Simon Xiaoqi Li(李晓琦)](https://csxqli.github.io/). Previously, he received his M.S. degree at Hainan University advised by [Prof. Simon Xiaoqi Li(李晓琦)](https://csxqli.github.io/), during that time he also experienced a year of joint training program with Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie. His research lies at the Smart Contract Security and Malicious scam Analysis, focusing on enhancing blockchain security through software analytics. He is also exploring the integration of artificial intelligence, such as graph neural networks and large language models.
 
 Education
