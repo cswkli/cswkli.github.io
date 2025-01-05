@@ -39,6 +39,17 @@
     margin-bottom: 8px; 
   }
   
+  .publications {
+    list-style-type: disc; /* 设置列表标记为圆点 */
+    padding-left: 20px;    /* 设置左侧内边距 */
+}
+  
+.publications h3 {
+    margin: 0; /* 去掉标题的默认外边距 */
+}
+.publications p {
+    margin: 5px 0; /* 设置段落的上下外边距 */
+}
   .publication p {
     font-size: 16px; /* 设置字体大小 */
     margin-bottom: 3px; /* 减少作者和出版期刊之间的间距 */
