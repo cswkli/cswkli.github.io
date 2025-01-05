@@ -34,13 +34,7 @@
   p {
     margin-bottom: 5px; 
   }
-<style>
-  .gray-text {
-            color: #333; /* 设置字体颜色为灰色 */
-            line-height: 1; /* 设置行距，可以根据需要调整 */
-            margin: 5px 0; /* 设置段落的上下外边距 */
-        }
-  </style>
+
   .publication {
     margin-bottom: 8px; 
   }
@@ -69,11 +63,11 @@ Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hai
 
 ## 🎓 Education & Experiences
 - Ph.D. Student, Hainan University, Haikou  
-  <p class='gray-text'>09/2024 - present</p>
+  09/2024 - present
 - Joint Training, Tencent Keen Security Lab, Shanghai  
-  <p class='gray-text'> 09/2023 - 09/2024</p>
+  09/2023 - 09/2024
 - Master Degree in Hainan University, Haikou  
-  <p class='gray-text'>09/2021 - 07/2024</p>
+  09/2021 - 07/2024
 - Bachelor Degree in Jiangxi University of Science and Technology, Nanchang
 
 
