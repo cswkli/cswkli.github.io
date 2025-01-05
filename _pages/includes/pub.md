@@ -1,5 +1,5 @@
 ## 📝 Selected Publications  | More in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uxDqTnQAAAAJ)
-
+<span class='anchor' id='selected-publications'></span>
 <ul class="publications">
   <li>
   <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
