@@ -37,16 +37,15 @@ redirect_from:
 
   h3 {
     font-size: 1.2em; /* 小标题字体大小 */
-    margin-bottom: 6px; /* 小标题下方间距 */
+    margin-bottom: 2px; /* 小标题下方间距 */
   }
 
   p {
-    margin-bottom: 15px; /* 段落间距 */
+    margin-bottom: 15px; 
   }
 
-    /* 为每个出版物的列表项添加样式 */
   .publication {
-    margin-bottom: 20px; /* 每个出版物之间的间距 */
+    margin-bottom: 20px; 
   }
 </style>
 
