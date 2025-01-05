@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<head>
-    <link rel="icon" href="images/scs.png" type="image/png">
-    <title>Wenkai Li's Homepage</title>
-</head>
+
 
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
