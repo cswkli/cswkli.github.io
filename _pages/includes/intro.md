@@ -5,7 +5,7 @@
   body {
     font-family: 'Roboto', sans-serif; /* 使用Roboto字体 */
     font-size: 16px; /* 设置字体大小 */
-    line-height: 1.4; /* 设置行高 */
+    line-height: 1.6; /* 设置行高 */
     text-align: justify; /* 段落两端对齐 */
     margin: 10px; /* 设置外边距 */
     color: #000; /* 设置字体颜色 */
