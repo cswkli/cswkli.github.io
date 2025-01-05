@@ -34,13 +34,13 @@
   p {
     margin-bottom: 5px; 
   }
-
+<style>
   .gray-text {
             color: #333; /* 设置字体颜色为灰色 */
             line-height: 1; /* 设置行距，可以根据需要调整 */
             margin: 5px 0; /* 设置段落的上下外边距 */
         }
-  
+  </style>
   .publication {
     margin-bottom: 8px; 
   }
