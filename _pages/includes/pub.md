@@ -1,6 +1,6 @@
 ## 📝 Selected Publications
 
-<ul class="publication">
+<ul class="publications">
   <li>
   <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
   <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang<br>
