@@ -40,6 +40,7 @@
   }
   
   .publication p {
+    font-size: 16px; /* 设置字体大小 */
     margin-bottom: 3px; /* 减少作者和出版期刊之间的间距 */
   }
 </style>
