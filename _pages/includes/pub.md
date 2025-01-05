@@ -1,4 +1,4 @@
-# 📝 Selected Publications
+## 📝 Selected Publications
 
 <div class="publication">
   <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
