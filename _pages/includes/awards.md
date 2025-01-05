@@ -1,4 +1,4 @@
-## 🎖 Honors and Awards
+## &#x1F396 Honors and Awards
 - **Excellent Paper Award,** Journal of Information Security Research, 2024.
 - **Excellent Thesis Award,** Hainan University, 2024.
 - **Excellent Academic Report Award,** Hainan University, 2024.
