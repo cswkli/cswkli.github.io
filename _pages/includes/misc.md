@@ -1,5 +1,5 @@
 ##  🧩 Misc
-- **U.S Patent**, A Vulnerability Detection Method and Device and Storage Medium for Smart Contracts, US 12093399 B1, 2024
+- **U.S. Patent**, A Vulnerability Detection Method and Device and Storage Medium for Smart Contracts, US 12093399 B1, 2024
 - **China Patent**, 一种智能合约的漏洞检测方法和装置、存储介质, ZL 2023 1 0584937.7, 2024
 - **China Patent**, 一种区块链去中心化金融的安全检测方法和装置, ZL 2023 1 1448701.7, 2024
 - **Software Copyright**, Interactive Perception Smart Contract Vulnerability Detection Software V1.0, 2023SR1384723, 2023
