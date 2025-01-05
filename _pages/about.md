@@ -7,34 +7,48 @@ redirect_from:
   - /about.html
 ---
  
-Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hainan University. I am supervised by the [Prof. Simon Xiaoqi Li(李晓琦)](https://csxqli.github.io/). Previously, he received his M.S. degree at Hainan University advised by [Prof. Simon Xiaoqi Li(李晓琦)](https://csxqli.github.io/), during that time he also experienced a year of joint training program with Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie. His research lies at the Smart Contract Security and Malicious scam Analysis, focusing on enhancing blockchain security through software analytics. He is also exploring the integration of artificial intelligence, such as graph neural networks and large language models.
+Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hainan University. I am supervised by the [Prof. Simon Xiaoqi Li(李晓琦)](https://csxqli.github.io/). Previously, he received his M.S. degree at Hainan University advised by Prof. Simon Xiaoqi Li(李晓琦), during that time he also experienced a year of joint training program with Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie. His research lies at the Smart Contract Security and Malicious scam Analysis, focusing on enhancing blockchain security through software and data analytics. He is also exploring the integration of artificial intelligence, such as graph neural networks and large language models.
 
-Education
+Education & Experiences
 ======
-+ Ph.D. Hainan University, Haikou
-+ M.Sc. Hainan University, Haikou
-+ joint training. Tencent Keen Lab, Shanghai
++ Ph.D, Hainan University, Haikou
++ M.Sc, Hainan University, Haikou
++ joint training, Tencent Keen Lab, Shanghai
 
-Site-wide configuration
+Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
++ SCALM: Detecting Bad Practices in Smart Contracts through LLMs [PDF]
+Zongwei Li, Xiaoqi Li, **Wenkai Li**, Xin Wang
+[The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)]
++ Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects [PDF]
+Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang
+[IEEE Transactions on Reliability, 2024 (TRel'24)]
++ COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts [PDF]
+**Wenkai Li**, Xiaoqi Li, Zongwei Li, Yuqing Zhang
+[The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)]
++ StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract [PDF]
+Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang
+[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]
++ DeFiTail : DeFi Protocol Inspection through Cross-Contract Execution Analysis [PDF]
+**Wenkai Li**, Xiaoqi Li, Yuqing Zhang, Zongwei Li
+[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]
++ GasTrace: Detecting Sandwich Attack Malicious Accounts in Ethereum [PDF]
+Zekai Liu, Xiaoqi Li, Hongli Peng, **Wenkai Li**
+[The 21th IEEE International Conference on Web Services, 2024 (ICWS'24)]
++ AuthROS: Secure Data Sharing Among Robot Operating Systems Based on Ethereum [PDF]
+Shenhui Zhang, **Wenkai Li**, Xiaoqi Li, Boyi Liu
+[The 22nd IEEE International Conference on Software Quality, Reliability, and Security, 2022 (QRS'22)]
++ Security Analysis of DeFi: Vulnerabilities, Attacks and Advances [PDF]
+**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Xianyi Chen
+[The IEEE International Conference on Blockchain, 2022 (ICBC'22)]
++ A Survey of DeFi Security: Challenges and Opportunities [PDF]
+**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Hongli Peng, Yuanzheng Niu, Yuqing Zhang
+[Journal of King Saud University - Computer and Information Sciences, 2022 (JKSU'22)]
 
-Create content & metadata
+Selected Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
++ Excellent Paper Award, Journal of Information Security Research, 2024.
++ Excellent Thesis Award, Hainan University, 2024.
++ Excellent Academic Report Award, Hainan University, 2024.
++ ACM Travel Grant, IEEE/ACM International Conference on Automated Software Engineering (ASE), 2024.
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
