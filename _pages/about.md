@@ -41,11 +41,15 @@ redirect_from:
   }
 
   p {
-    margin-bottom: 5px; 
+    margin-bottom: 15px; 
   }
 
   .publication {
     margin-bottom: 20px; 
+  }
+  
+  .publication p {
+    margin-bottom: 5px; /* 减少作者和出版期刊之间的间距 */
   }
 </style>
 
