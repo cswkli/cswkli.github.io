@@ -8,12 +8,12 @@
     line-height: 1.4; /* 设置行高 */
     text-align: justify; /* 段落两端对齐 */
     margin: 10px; /* 设置外边距 */
-    color: #333; /* 设置字体颜色 */
+    color: #000; /* 设置字体颜色 */
   }
 
   h1, h2, h3 {
     font-family: 'Roboto', sans-serif; /* 统一标题字体 */
-    color: #2c3e50; /* 设置标题颜色 */
+    color: #000; /* 设置标题颜色 */
   }
 
   h1 {
