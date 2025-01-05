@@ -9,13 +9,13 @@ main:
     url: "/#about-me"
 
   - title: "Selected Publications"
-    url: "/#-selected-publications"
+    url: "/##~Selected~Publications~|~More~in~[Google~Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uxDqTnQAAAAJ)"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/##-honors-and-awards"
 
   - title: "Teaching Experience & Services"
-    url: "/#-services"
+    url: "/##-services"
 
   - title: "Misc"
-    url: "/#-misc"
+    url: "/##-misc"
