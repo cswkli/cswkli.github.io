@@ -6,9 +6,53 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-family: 'Roboto', sans-serif; text-align: justify;  line-height: 1.6; font-size: 16px;">
+
+<style>
+  /* 引入Google Fonts中的Roboto字体 */
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+  body {
+    font-family: 'Roboto', sans-serif; /* 使用Roboto字体 */
+    font-size: 16px; /* 设置字体大小 */
+    line-height: 1.6; /* 设置行高 */
+    text-align: justify; /* 段落两端对齐 */
+    margin: 20px; /* 设置外边距 */
+    color: #333; /* 设置字体颜色 */
+  }
+
+  h1, h2, h3 {
+    font-family: 'Roboto', sans-serif; /* 统一标题字体 */
+    color: #2c3e50; /* 设置标题颜色 */
+  }
+
+  h1 {
+    font-size: 2em; /* 主标题字体大小 */
+    margin-bottom: 10px; /* 标题下方间距 */
+  }
+
+  h2 {
+    font-size: 1.5em; /* 副标题字体大小 */
+    margin-bottom: 8px; /* 副标题下方间距 */
+  }
+
+  h3 {
+    font-size: 1.2em; /* 小标题字体大小 */
+    margin-bottom: 6px; /* 小标题下方间距 */
+  }
+
+  p {
+    margin-bottom: 15px; /* 段落间距 */
+  }
+
+    /* 为每个出版物的列表项添加样式 */
+  .publication {
+    margin-bottom: 20px; /* 每个出版物之间的间距 */
+  }
+</style>
+
+
 Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hainan University. He is supervised by [Prof. Simon Xiaoqi Li (李晓琦)](https://csxqli.github.io/). Previously, he received his M.S. degree at Hainan University advised by Prof. Simon Xiaoqi Li (李晓琦), during that time he also experienced a year of joint training program with Tencent Keen Lab, supervised under Tencent Security Researcher Sen Nie. His research lies at the Smart Contract Security and Malicious Scam Analysis, focusing on enhancing blockchain security through software and data analytics. He is also exploring the integration of artificial intelligence, such as graph neural networks and large language models.
-</span>
+
 
 ## Education & Experiences
 - Ph.D., Hainan University, Haikou
@@ -16,33 +60,61 @@ Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hai
 - Joint Training, Tencent Keen Lab, Shanghai
 
 ## Selected Publications
-- **SCALM: Detecting Bad Practices in Smart Contracts through LLMs**  
-Zongwei Li, Xiaoqi Li, **Wenkai Li**, Xin Wang  
-[The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)]  
-- **Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects**  
-Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang  
-[IEEE Transactions on Reliability, 2024 (TRel'24)]  
-- **COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts**  
-**Wenkai Li**, Xiaoqi Li, Zongwei Li, Yuqing Zhang  
-[The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)]  
-- **StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**  
-Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang  
-[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]  
-- **DeFiTail : DeFi Protocol Inspection through Cross-Contract Execution Analysis**  
-**Wenkai Li**, Xiaoqi Li, Yuqing Zhang, Zongwei Li  
-[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]  
-- **GasTrace: Detecting Sandwich Attack Malicious Accounts in Ethereum**  
-Zekai Liu, Xiaoqi Li, Hongli Peng, **Wenkai Li**  
-[The 21th IEEE International Conference on Web Services, 2024 (ICWS'24)]  
-- **AuthROS: Secure Data Sharing Among Robot Operating Systems Based on Ethereum**  
-Shenhui Zhang, **Wenkai Li**, Xiaoqi Li, Boyi Liu  
-[The 22nd IEEE International Conference on Software Quality, Reliability, and Security, 2022 (QRS'22)]  
-- **Security Analysis of DeFi: Vulnerabilities, Attacks and Advances**  
-**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Xianyi Chen  
-[The IEEE International Conference on Blockchain, 2022 (ICBC'22)]  
-- **A Survey of DeFi Security: Challenges and Opportunities**  
-**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Hongli Peng, Yuanzheng Niu, Yuqing Zhang  
-[Journal of King Saud University - Computer and Information Sciences, 2022 (JKSU'22)]  
+
+<div class="publication">
+  <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
+  <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang</p>
+  <p><em>The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)</em></p>
+</div>
+
+<div class="publication">
+  <h3> Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects</h3>
+  <p>Zongwei Li, <strong>Wenkai Li</strong>, Xiaoqi Li, Yuqing Zhang</p>
+  <p><em>IEEE Transactions on Reliability, 2024 (TRel'24)</em></p>
+</div>
+
+<div class="publication">
+  <h3> COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts</h3>
+  <p><strong>Wenkai Li</strong>, Xiaoqi Li, Zongwei Li, Yuqing Zhang</p>
+  <p><em>The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)</em></p>
+</div>
+
+<div class="publication">
+  <h3> StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contracts</h3>
+  <p>Zongwei Li, <strong>Wenkai Li</strong>, Xiaoqi Li, Yuqing Zhang</p>
+  <p><em>The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)</em></p>
+</div>
+
+<div class="publication">
+  <h3> DeFiTail: DeFi Protocol Inspection through Cross-Contract Execution Analysis</h3>
+  <p><strong>Wenkai Li</strong>, Xiaoqi Li, Yuqing Zhang, Zongwei Li</p>
+  <p><em>The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)</em></p>
+</div>
+
+<div class="publication">
+  <h3> GasTrace: Detecting Sandwich Attack Malicious Accounts in Ethereum</h3>
+  <p>Zekai Liu, Xiaoqi Li, Hongli Peng, <strong>Wenkai Li</strong></p>
+  <p><em>The 21st IEEE International Conference on Web Services, 2024 (ICWS'24)</em></p>
+</div>
+
+<div class="publication">
+  <h3> AuthROS: Secure Data Sharing Among Robot Operating Systems Based on Ethereum</h3>
+  <p>Shenhui Zhang, <strong>Wenkai Li</strong>, Xiaoqi Li, Boyi Liu</p>
+  <p><em>The 22nd IEEE International Conference on Software Quality, Reliability, and Security, 2022 (QRS'22)</em></p>
+</div>
+
+<div class="publication">
+  <h3> Security Analysis of DeFi: Vulnerabilities, Attacks and Advances</h3>
+  <p><strong>Wenkai Li</strong>, Jiuyang Bu, Xiaoqi Li, Xianyi Chen</p>
+  <p><em>The IEEE International Conference on Blockchain, 2022 (ICBC'22)</em></p>
+</div>
+
+<div class="publication">
+  <h3> A Survey of DeFi Security: Challenges and Opportunities</h3>
+  <p><strong>Wenkai Li</strong>, Jiuyang Bu, Xiaoqi Li, Hongli Peng, Yuanzheng Niu, Yuqing Zhang</p>
+  <p><em>Journal of King Saud University - Computer and Information Sciences, 2022 (JKSU'22)</em></p>
+</div>
+
 
 ## Selected Awards
 - **Excellent Paper Award,** Journal of Information Security Research, 2024.
