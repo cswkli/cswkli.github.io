@@ -1,4 +1,4 @@
-## 📝 Selected Publications  | More in [Google Scholar]{}
+## 📝 Selected Publications  | More in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uxDqTnQAAAAJ)
 
 <ul class="publications">
   <li>
