@@ -5,7 +5,7 @@
   body {
     font-family: 'Roboto', sans-serif; /* 使用Roboto字体 */
     font-size: 16px; /* 设置字体大小 */
-    line-height: 1.6; /* 设置行高 */
+    line-height: 1.4; /* 设置行高 */
     text-align: justify; /* 段落两端对齐 */
     margin: 10px; /* 设置外边距 */
     color: #333; /* 设置字体颜色 */
@@ -28,7 +28,7 @@
 
   h3 {
     font-size: 1em; /* 小标题字体大小 */
-    margin-bottom: 4px; /* 小标题下方间距 */
+    margin-bottom: 3px; /* 小标题下方间距 */
   }
 
   p {
@@ -40,7 +40,7 @@
   }
   
   .publication p {
-    margin-bottom: 5px; /* 减少作者和出版期刊之间的间距 */
+    margin-bottom: 3px; /* 减少作者和出版期刊之间的间距 */
   }
 </style>
 
