@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span class='anchor' id='about-me'></span>
 <style>
   /* 引入Google Fonts中的Roboto字体 */
   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
