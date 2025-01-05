@@ -17,33 +17,33 @@ Education & Experiences
 
 Selected Publications
 ------
-+ SCALM: Detecting Bad Practices in Smart Contracts through LLMs [PDF]
-Zongwei Li, Xiaoqi Li, **Wenkai Li**, Xin Wang
++ SCALM: Detecting Bad Practices in Smart Contracts through LLMs  
+Zongwei Li, Xiaoqi Li, **Wenkai Li**, Xin Wang  
 [The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)]
-+ Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects [PDF]
-Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang
-[IEEE Transactions on Reliability, 2024 (TRel'24)]
-+ COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts [PDF]
-**Wenkai Li**, Xiaoqi Li, Zongwei Li, Yuqing Zhang
-[The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)]
-+ StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract [PDF]
-Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang
-[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]
-+ DeFiTail : DeFi Protocol Inspection through Cross-Contract Execution Analysis [PDF]
-**Wenkai Li**, Xiaoqi Li, Yuqing Zhang, Zongwei Li
-[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]
-+ GasTrace: Detecting Sandwich Attack Malicious Accounts in Ethereum [PDF]
-Zekai Liu, Xiaoqi Li, Hongli Peng, **Wenkai Li**
-[The 21th IEEE International Conference on Web Services, 2024 (ICWS'24)]
-+ AuthROS: Secure Data Sharing Among Robot Operating Systems Based on Ethereum [PDF]
-Shenhui Zhang, **Wenkai Li**, Xiaoqi Li, Boyi Liu
-[The 22nd IEEE International Conference on Software Quality, Reliability, and Security, 2022 (QRS'22)]
-+ Security Analysis of DeFi: Vulnerabilities, Attacks and Advances [PDF]
-**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Xianyi Chen
-[The IEEE International Conference on Blockchain, 2022 (ICBC'22)]
-+ A Survey of DeFi Security: Challenges and Opportunities [PDF]
-**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Hongli Peng, Yuanzheng Niu, Yuqing Zhang
-[Journal of King Saud University - Computer and Information Sciences, 2022 (JKSU'22)]
++ Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects  
+Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang  
+[IEEE Transactions on Reliability, 2024 (TRel'24)]  
++ COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts  
+**Wenkai Li**, Xiaoqi Li, Zongwei Li, Yuqing Zhang  
+[The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)]  
++ StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract  
+Zongwei Li, **Wenkai Li**, Xiaoqi Li, Yuqing Zhang  
+[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]  
++ DeFiTail : DeFi Protocol Inspection through Cross-Contract Execution Analysis  
+**Wenkai Li**, Xiaoqi Li, Yuqing Zhang, Zongwei Li  
+[The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)]  
++ GasTrace: Detecting Sandwich Attack Malicious Accounts in Ethereum  
+Zekai Liu, Xiaoqi Li, Hongli Peng, **Wenkai Li**  
+[The 21th IEEE International Conference on Web Services, 2024 (ICWS'24)]  
++ AuthROS: Secure Data Sharing Among Robot Operating Systems Based on Ethereum  
+Shenhui Zhang, **Wenkai Li**, Xiaoqi Li, Boyi Liu  
+[The 22nd IEEE International Conference on Software Quality, Reliability, and Security, 2022 (QRS'22)]  
++ Security Analysis of DeFi: Vulnerabilities, Attacks and Advances  
+**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Xianyi Chen  
+[The IEEE International Conference on Blockchain, 2022 (ICBC'22)]  
++ A Survey of DeFi Security: Challenges and Opportunities
+**Wenkai Li**, Jiuyang Bu, Xiaoqi Li, Hongli Peng, Yuanzheng Niu, Yuqing Zhang  
+[Journal of King Saud University - Computer and Information Sciences, 2022 (JKSU'22)]  
 
 Selected Awards
 ------
