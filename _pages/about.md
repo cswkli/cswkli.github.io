@@ -63,14 +63,14 @@ Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hai
 
 <div class="publication">
   <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
-  <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang</p>
-  <p><em>The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)</em></p>
+  <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang</br>
+  <em>The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)</em></p>
 </div>
 
 <div class="publication">
   <h3> Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects</h3>
-  <p>Zongwei Li, <strong>Wenkai Li</strong>, Xiaoqi Li, Yuqing Zhang</p>
-  <p><em>IEEE Transactions on Reliability, 2024 (TRel'24)</em></p>
+  <p>Zongwei Li, <strong>Wenkai Li</strong>, Xiaoqi Li, Yuqing Zhang</br>
+  <em>IEEE Transactions on Reliability, 2024 (TRel'24)</em></p>
 </div>
 
 <div class="publication">
