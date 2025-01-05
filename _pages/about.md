@@ -16,7 +16,7 @@ redirect_from:
     font-size: 16px; /* 设置字体大小 */
     line-height: 1.6; /* 设置行高 */
     text-align: justify; /* 段落两端对齐 */
-    margin: 20px; /* 设置外边距 */
+    margin: 10px; /* 设置外边距 */
     color: #333; /* 设置字体颜色 */
   }
 
