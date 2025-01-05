@@ -37,11 +37,11 @@ redirect_from:
 
   h3 {
     font-size: 1em; /* 小标题字体大小 */
-    margin-bottom: 5px; /* 小标题下方间距 */
+    margin-bottom: 4px; /* 小标题下方间距 */
   }
 
   p {
-    margin-bottom: 15px; 
+    margin-bottom: 5px; 
   }
 
   .publication {
