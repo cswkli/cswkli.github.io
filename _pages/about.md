@@ -55,8 +55,9 @@ Wenkai Li is a first-year Ph.D student at the School of Cyberspace Security, Hai
 
 ## Education & Experiences
 - Ph.D., Hainan University, Haikou
-- M.Sc., Hainan University, Haikou
 - Joint Training, Tencent Keen Lab, Shanghai
+- M.Sc., Hainan University, Haikou
+- B.Sc., Jiangxi University of Science and Technology, Nanchang
 
 ## Selected Publications
 
