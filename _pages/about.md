@@ -36,7 +36,7 @@ redirect_from:
   }
 
   h3 {
-    font-size: 0.8em; /* 小标题字体大小 */
+    font-size: 1.1em; /* 小标题字体大小 */
     margin-bottom: 5px; /* 小标题下方间距 */
   }
 
