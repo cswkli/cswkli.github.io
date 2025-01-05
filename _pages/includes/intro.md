@@ -49,6 +49,7 @@
 }
 .publications p {
     margin: 5px 0; /* 设置段落的上下外边距 */
+    color: #333; /
 }
   .publication p {
     font-size: 16px; /* 设置字体大小 */
