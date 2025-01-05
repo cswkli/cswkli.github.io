@@ -15,3 +15,5 @@ redirect_from:
 {% include_relative includes/awards.md %}
 
 {% include_relative includes/services.md %}
+
+{% include_relative includes/misc.md %}
