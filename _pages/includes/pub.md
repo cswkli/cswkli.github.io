@@ -7,7 +7,7 @@
   <em>Black Hat Asia, 2025 (BlackHat'25)</em></p>
   </li>
   <li>
-  <h3> CALM: Detecting Bad Practices in Smart Contracts through LLMs</h3>
+  <h3> SCALM: Detecting Bad Practices in Smart Contracts through LLMs</h3>
   <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang<br>
   <em>The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)</em></p>
   </li>
