@@ -2,7 +2,12 @@
 
 <ul class="publications">
   <li>
-  <h3> <strong>SCALM: Detecting Bad Practices in Smart Contracts through LLMs</strong></h3>
+  <h3> Sweeping the Blockchain: Unmasking Illicit Accounts in Web3 Scams</h3>
+  <p> <strong>Wenkai Li</strong>, Zhijie Liu, Xiaoqi Li, Sen Nie<br>
+  <em>Black Hat Asia, 2025 (BlackHat'25)</em></p>
+  </li>
+  <li>
+  <h3> CALM: Detecting Bad Practices in Smart Contracts through LLMs</h3>
   <p>Zongwei Li, Xiaoqi Li, <strong>Wenkai Li</strong>, Xin Wang<br>
   <em>The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (AAAI'25)</em></p>
   </li>
