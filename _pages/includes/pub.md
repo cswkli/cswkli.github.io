@@ -3,7 +3,7 @@
 <ul class="publications">
   <li>
   <h3> Sweeping the Blockchain: Unmasking Illicit Accounts in Web3 Scams</h3>
-  <p> <strong>Wenkai Li</strong>, Zhijie Liu, Xiaoqi Li, Sen Nie<br>
+  <p> <strong>Wenkai Li</strong>, Zhijie Liu, Xiaoqi Li<br>
   <em>Black Hat Asia, 2025 (BlackHat'25)</em></p>
   </li>
   <li>
