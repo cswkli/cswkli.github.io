@@ -2,6 +2,11 @@
 
 <ul class="publications">
   <li>
+  <h3> Interaction-Aware Vulnerability Detection in Smart Contract Bytecodes</h3>
+  <p><strong>Wenkai Li</strong>, Xiaoqi Li, Yingjie Mao, Yuqing Zhang<br>
+  <em>IEEE Transactions on Dependable and Secure Computing, 2025 (TDSC'25)</em></p>
+  </li>
+  <li>
   <h3> Sweeping the Blockchain: Unmasking Illicit Accounts in Web3 Scams</h3>
   <p> <strong>Wenkai Li</strong>, Zhijie Liu, Xiaoqi Li<br>
   <em>Black Hat Asia, 2025 (BlackHat'25)</em></p>
