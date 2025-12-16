@@ -1,6 +1,11 @@
 ## 📝 Selected Publications  | More in [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=uxDqTnQAAAAJ)
 
 <ul class="publications">
+    <li>
+  <h3> ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis</h3>
+  <p>Xiaoqi Li, <u>Wenkai Li</u>, Zhijie Liu, Meikang Qiu, Zhiquan Liu, Sen Nie, Zongwei Li, Shi Wu, Yuqing Zhang<br>
+  <em>IEEE Transactions on Information Forensics & Security, 2026 (TIFS'26)</em></p>
+  </li>
   <li>
   <h3> Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis</h3>
   <p>Xiaoqi Li, <u>Wenkai Li</u>, Zhiquan Liu, Yuqing Zhang, Yingjie Mao<br>
@@ -16,6 +21,21 @@
   <p> <u>Wenkai Li</u>, Zhijie Liu, Xiaoqi Li<br>
   <em>Black Hat Asia, 2025 (BlackHat'25)</em></p>
   </li>
+<li>
+  <h3> COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts</h3>
+  <p><u>Wenkai Li</u>, Xiaoqi Li, Zongwei Li, Yuqing Zhang<br>
+  <em>The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)</em></p>
+</li>
+  <li>
+  <h3> DeFiTail: DeFi Protocol Inspection through Cross-Contract Execution Analysis</h3>
+  <p><u>Wenkai Li</u>, Xiaoqi Li, Yuqing Zhang, Zongwei Li<br>
+  <em>The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)</em></p>
+</li>
+  <li>
+  <h3> No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis</h3>
+  <p>Zongwei Li, Xiaoqi Li, <u>Wenkai Li</u>, Yuqing Zhang, Xin Wang<br>
+  <em>ACM Transactions on Software Engineering and Methodology, 2026 (TOSEM'26)</em></p>
+  </li>
   <li>
   <h3> SCALM: Detecting Bad Practices in Smart Contracts through LLMs</h3>
   <p>Zongwei Li, Xiaoqi Li, <u>Wenkai Li</u>, Xin Wang<br>
@@ -27,18 +47,8 @@
   <em>IEEE Transactions on Reliability, 2024 (TRel'24)</em></p>
 </li>
 <li>
-  <h3> COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts</h3>
-  <p><u>Wenkai Li</u>, Xiaoqi Li, Zongwei Li, Yuqing Zhang<br>
-  <em>The 39th IEEE/ACM International Conference on Automated Software Engineering, 2024 (ASE'24)</em></p>
-</li>
-<li>
   <h3> StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contracts</h3>
   <p>Zongwei Li, <u>Wenkai Li</u>, Xiaoqi Li, Yuqing Zhang<br>
-  <em>The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)</em></p>
-</li>
-<li>
-  <h3> DeFiTail: DeFi Protocol Inspection through Cross-Contract Execution Analysis</h3>
-  <p><u>Wenkai Li</u>, Xiaoqi Li, Yuqing Zhang, Zongwei Li<br>
   <em>The 33rd ACM International World Wide Web Conference, 2024 (WWW'24)</em></p>
 </li>
 <li>
