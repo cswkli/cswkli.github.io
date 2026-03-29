@@ -3,12 +3,12 @@
 <ul class="publications">
     <li>
   <h3> ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis</h3>
-  <p>Xiaoqi Li, <u>Wenkai Li</u>, Zhijie Liu, Meikang Qiu, Zhiquan Liu, Sen Nie, Zongwei Li, Shi Wu, Yuqing Zhang<br>
+  <p>Xiaoqi Li, <u>Wenkai Li*</u>, Zhijie Liu, Meikang Qiu, Zhiquan Liu, Sen Nie, Zongwei Li, Shi Wu, Yuqing Zhang<br>
   <em>IEEE Transactions on Information Forensics & Security, 2026 (TIFS'26)</em></p>
   </li>
   <li>
   <h3> Penetrating the Hostile: Detecting DeFi Protocol Exploits through Cross-Contract Analysis</h3>
-  <p>Xiaoqi Li, <u>Wenkai Li</u>, Zhiquan Liu, Yuqing Zhang, Yingjie Mao<br>
+  <p>Xiaoqi Li, <u>Wenkai Li*</u>, Zhiquan Liu, Yuqing Zhang, Yingjie Mao<br>
   <em>IEEE Transactions on Information Forensics & Security, 2025 (TIFS'25)</em></p>
   </li>
   <li>
