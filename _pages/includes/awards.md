@@ -1,8 +1,10 @@
 ## 🎖️ Honors and Awards
 - **Gold Medal,** The 50th International Exhibition of Inventions Geneva, Switzerland, 2025.
 - **Doctoral Student Program of the Young S&T Talents Cultivation Project**(中科协青培博士生专项), China Association for Science and Technology (CAST), China, 2025.
-- **Silver Award,** The 11th International Exhibition of Inventions, China, 2025.
-- **Second-Class Award of Teaching Achievements**, Hainan Province, 2025.
+- **Silver Award,** The 11th International Exhibition of Inventions, China Association of Inventions, China, 2025.
+- **First-Class Award,** National Higher Education Programming Course Teaching Case Competition, Association of Fundamental Computing Education in Chinese Universities, China, 2025.
+- **The Creative Founder Award,** China Association of Inventions, China, 2025.
+- **Second-Class Award,** Teaching Achievements from Hainan Association for Artificial Intelligence, Hainan Province, 2025.
 - **Excellent Paper Award,** Journal of Information Security Research, 2024.
 - **Excellent Thesis Award,** Hainan University, 2024.
 - **Excellent Academic Report Award,** Hainan University, 2024.
